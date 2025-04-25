@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [IOD Capstone Project](https://github.com/joshmadakor1/LABURL)
+  - [IOD Capstone Project](https://github.com/Obayanjudayo/IOD-Cybersecurity-Capstone-Project)
 
 <h2>Certifications</h2>
 
